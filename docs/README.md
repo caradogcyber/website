@@ -2,9 +2,9 @@
 
 🚧 Hi. This site is under construction. 🚧
 
-__Caradog Cyber is a small limited company, primarily offering DevSecOps consulting in the UK.__ 💻
+__Caradog Cyber is a small limited company, primarily offering DevSecOps consulting in the UK.__
 
-### 🔗 Contacts:
+## 🤙 Contacts:
 
 <!--
 ![linkedin](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=016eab)&nbsp;
@@ -18,18 +18,26 @@ __Caradog Cyber is a small limited company, primarily offering DevSecOps consult
 
 ---
 
-### 💻 Tech Stack:
+## 💻 Tech
+
+### Cloud Providers
 
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)&nbsp;
+![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=googlecloud)&nbsp;
 
----
+### Configuration/Infrastructure Management
 
-### 🛠 Tools:
+![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=GitLab&logoColor=0079BF)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira&logoColor=0079BF)&nbsp;
+### Programming/Scripting
+
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat)&nbsp;
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)&nbsp;
+![Groovy](https://img.shields.io/badge/-Groovy-333333?style=flat)&nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat)&nbsp;
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 
 ---
 
