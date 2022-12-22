@@ -2,6 +2,7 @@
 
 | Link                                                                                                                                                                                            | Tags             | Date Added | Importance | Private? |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----------------| ---------- | ---------- | -------- |
+| [Production Ready Software and Infrastructure](https://docs.google.com/document/d/1FPeE-9W9TJBrSXUzwlbFIjovHZgolF2USPf4dvPwtpY/edit)                                                            | arch template    | 2022-08-22 | 8          | y        |
 | [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)                                                              | authn authz      | 2022-08-22 | 6          |          |
 | [Keycloak Guide](https://www.keycloak.org/guides)                                                                                                                                               | authn authz      | 2022-08-28 | 6          |          |
 | [Original Best Practices for Writing Bash Scripts](https://github.com/kvz/bash3boilerplate/blob/v1.0.1/main.sh)                                                                                 | bash             | 2022-08-22 | 7          |          |
@@ -42,7 +43,7 @@
 | [Terraform Module Patterns](https://medium.com/@AaronKalair/terraform-module-patterns-4ba2996f0b96)                                                                                             | terraform        | 2022-08-22 | 5          |          |
 | [Your Terraform Module Needs an Opinion](https://www.davehall.com.au/blog/2021/09/11/your-terraform-module-needs-an-opinion/)                                                                   | terraform        | 2022-08-22 | 5          |          |
 | [Writing Clean Tests](https://www.petrikainulainen.net/writing-clean-tests/)                                                                                                                    | testing          | 2022-08-22 | 5          |          |
-| [Production Ready Software and Infrastructure](https://docs.google.com/document/d/1FPeE-9W9TJBrSXUzwlbFIjovHZgolF2USPf4dvPwtpY/edit)                                                            | arch template    | 2022-08-22 | 8          | y        |
+| [WebAssembly: Docker without containers!](https://wasmlabs.dev/articles/docker-without-containers/)                                                                                             | wasm             | 2022-12-12 | 5          |          |
 
 # TODO
 
